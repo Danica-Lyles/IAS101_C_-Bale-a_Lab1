@@ -1,2 +1,2 @@
-# IAS101_C_-Bale-a_Lab1
+# IAS101_C_-Balena_Lab1
 SQL Injection - Laboratory Activity 1
